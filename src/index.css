@@ -59,7 +59,7 @@ main {
 
 .main--facts > li {
   line-height: 19px;
-  padding-block: 10px;
+  padding-block: 11px;
 }
 
 .main--facts > li::marker {
